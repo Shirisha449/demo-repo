@@ -1,2 +1,2 @@
-# Main Header
+# Demo
 Description of the project
